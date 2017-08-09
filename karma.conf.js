@@ -8,7 +8,7 @@ module.exports = function(config) {
   var testingSrcBase = 'testing/'; // test source TS files
 
   config.set({
-    basePath: 'quickstart),
+    basePath: 'angular-demo',
     frameworks: ['jasmine'],
 
     plugins: [
